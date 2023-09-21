@@ -16,8 +16,8 @@ This BMI (Body Mass Index) calculator is a web application built using HTML, CSS
 
 ## Installation
 1. Clone this repository to your local machine:
-```git clone https://github.com/yourusername/bmi-calculator.git
-```
+`git clone https://github.com/yourusername/bmi-calculator.git
+`
 2. Open the `index.html` file in your web browser or host it on a web server.
 
 ## Usage
@@ -33,7 +33,7 @@ This BMI (Body Mass Index) calculator is a web application built using HTML, CSS
 
 ## Demo
 You can try out a live demo of the BMI Calculator here.
-`https://fitness-bmi-calculator.netlify.app/`
+https://fitness-bmi-calculator.netlify.app/
 
 ## Screenshots
 
