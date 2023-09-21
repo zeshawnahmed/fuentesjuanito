@@ -33,6 +33,7 @@ This BMI (Body Mass Index) calculator is a web application built using HTML, CSS
 
 ## Demo
 You can try out a live demo of the BMI Calculator here.
+`https://fitness-bmi-calculator.netlify.app/`
 
 ## Screenshots
 
